@@ -17,8 +17,20 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "418b990356982ab3",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,8 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a36703f64d05a898",
+  "active": "418b990356982ab3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "The Dao of Web Design.md",
+    "Sub-resource Integrity.md",
+    "Strict Transport Security.md",
+    "Security Headers.md",
+    "Permissions Policy.md",
+    "Javascript Promises.md",
+    "HSTS Preloading.md",
+    "Core Web Vitals.md",
+    "Cookies.md",
+    "Content Security Policy.md",
+    "Calibre.md",
     "Aero-press Method.md",
     "Things to check for cars.md",
     "Perfect Days.md",
@@ -164,8 +189,6 @@
     "V60 Coffee Brewing Method.md",
     "Coffee.md",
     "Throttling.md",
-    "Debouncing.md",
-    "().md",
-    "Welcome.md"
+    "Debouncing.md"
   ]
 }
