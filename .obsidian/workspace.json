@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dao of Web Design.md",
+                "file": "Calibre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48a0646dae0b6405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calibre.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +42,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbfb43c543ec15a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permissions Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "744e336af7eb0e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Web Vitals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29607b739209297d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub-resource Integrity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5e28e9062560d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strict Transport Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -60,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "core",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dao of Web Design.md",
+                "file": "Core Web Vitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dao of Web Design.md",
+                "file": "Core Web Vitals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dao of Web Design.md"
+                "file": "Core Web Vitals.md"
               }
             }
           },
@@ -166,15 +228,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e184a8befe4e232d",
+  "active": "744e336af7eb0e96",
   "lastOpenFiles": [
-    "Debouncing.md",
+    "Cookies.md",
+    "Security Headers.md",
+    "Sub-resource Integrity.md",
+    "Strict Transport Security.md",
+    "Content Security Policy.md",
+    "Permissions Policy.md",
+    "HSTS Preloading.md",
     "Javascript Promises.md",
+    "Untitled.md",
+    "Calibre.md",
+    "Core Web Vitals.md",
     "The Dao of Web Design.md",
+    "calibreapp.com/tools/core-web-vitals-checker.md",
+    "calibreapp.com/tools",
+    "calibreapp.com",
+    "V60 Coffee Brewing Method.md",
+    "Debouncing.md",
     "Coffee.md",
     "Aero-press Method.md",
     "Debouncing vs Throttling.md",
-    "V60 Coffee Brewing Method.md",
     "Vue.md",
     "Throttling.md",
     "().md",
