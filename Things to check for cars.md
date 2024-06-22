@@ -1,0 +1,10 @@
+- the drive 
+	- suspension
+	- feel
+	- space
+	- assists
+- boot or fboot size
+- interior space and feeling
+- software (open? good? fast comp?)
+- repairs and servicing in Tas?
+- public charging in tas?
