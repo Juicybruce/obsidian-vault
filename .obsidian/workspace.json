@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Web Vitals.md",
+                "file": "House Lighting Changes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Web Vitals.md",
+                "file": "House Lighting Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Web Vitals.md",
+                "file": "House Lighting Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Web Vitals.md"
+                "file": "House Lighting Changes.md"
               }
             }
           },
@@ -158,13 +158,15 @@
   "active": "19a3386341cd3d7c",
   "lastOpenFiles": [
     "House Plans.md",
+    "House Lighting Changes.md",
+    "HSTS Preloading.md",
+    "Core Web Vitals.md",
     "ACF Blocks.md",
     "Build Sidegarden fence beds.md",
     "Untitled.md",
     "2024-06-02.md",
     "Things to check for cars.md",
     "Color Spaces.md",
-    "Core Web Vitals.md",
     "Perfect Days.md",
     "Movies To Watch.md",
     "Ferrari.md",
@@ -174,7 +176,6 @@
     "Strict Transport Security.md",
     "Content Security Policy.md",
     "Permissions Policy.md",
-    "HSTS Preloading.md",
     "Javascript Promises.md",
     "Calibre.md",
     "The Dao of Web Design.md",
