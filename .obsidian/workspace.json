@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ac00c80570e7f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workflow improvements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Lighting Changes.md",
+                "file": "Workflow improvements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "House Lighting Changes.md",
+                "file": "Workflow improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "House Lighting Changes.md"
+                "file": "Workflow improvements.md"
               }
             }
           },
@@ -155,15 +168,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "19a3386341cd3d7c",
+  "active": "5ac00c80570e7f31",
   "lastOpenFiles": [
-    "House Plans.md",
     "House Lighting Changes.md",
+    "Workflow improvements.md",
+    "House Plans.md",
     "HSTS Preloading.md",
     "Core Web Vitals.md",
     "ACF Blocks.md",
     "Build Sidegarden fence beds.md",
-    "Untitled.md",
     "2024-06-02.md",
     "Things to check for cars.md",
     "Color Spaces.md",
