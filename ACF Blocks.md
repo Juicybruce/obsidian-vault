@@ -73,7 +73,7 @@ This requires some additional config in the builder/watcher, by adding postcss a
 }
 ```
 
-You will also need a postcss config at your theme root:
+You will also need a `postcss.config.js` at your theme root:
 ```
 const postcssPresetEnv = require('postcss-preset-env');
 module.exports = {
