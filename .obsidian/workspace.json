@@ -4,35 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba403fe1c42546e",
+        "id": "33aad776cfa5c1e9",
         "type": "tabs",
         "children": [
           {
-            "id": "538abf557c7146ae",
+            "id": "944e4b2fbc3f8ee7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "House Plans.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "742865ff9bc9b9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game AI Pro.md",
+                "file": "AWS Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12c776bc26303f40",
+            "id": "1502bb561b904794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Birthday Present Ideas.md",
+                "file": "Technical Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Birthday Present Ideas.md",
+                "file": "House Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Birthday Present Ideas.md",
+                "file": "House Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Birthday Present Ideas.md"
+                "file": "House Plans.md"
               }
             }
           },
@@ -168,12 +186,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "12c776bc26303f40",
+  "active": "944e4b2fbc3f8ee7",
   "lastOpenFiles": [
+    "Build Sidegarden fence beds.md",
+    "AWS Solutions Architect - Associate.md",
+    "AWS Fundamentals.md",
+    "Technical Fundamentals.md",
+    "Readwise + Reader.md",
+    "Birthday Present Ideas.md",
     "Eat a Peach.md",
     "Movies To Watch.md",
     "Game AI Pro.md",
-    "Birthday Present Ideas.md",
     "High Life.md",
     "Let the Sunshine In.md",
     "Tailscale.md",
@@ -191,11 +214,6 @@
     "conflict-files-obsidian-git.md",
     "House Lighting Changes.md",
     "House Plans.md",
-    "HSTS Preloading.md",
-    "Core Web Vitals.md",
-    "ACF Blocks.md",
-    "Build Sidegarden fence beds.md",
-    "2024-06-02.md",
     "calibreapp.com/tools",
     "calibreapp.com"
   ]

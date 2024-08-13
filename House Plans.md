@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Ideas
@@ -14,12 +16,12 @@ kanban-plugin: board
 
 ## In-Progress
 
-- [ ] Move Side Garden fence
-	- need to trim down the final slat on the fence side
 
 
 ## Complete
 
+- [ ] Move Side Garden fence
+	- need to trim down the final slat on the fence side
 - [ ] Side Garden Beds/Fence
 
 
