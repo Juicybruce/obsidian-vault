@@ -11,18 +11,23 @@
             "id": "944e4b2fbc3f8ee7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "House Plans.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "AWS Solutions Architect - Associate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "302b16181ade0e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Info.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -33,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "AWS Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc1e2793579c21e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Plans.md",
+                "file": "AWS Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "House Plans.md",
+                "file": "AWS Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "House Plans.md"
+                "file": "AWS Fundamentals.md"
               }
             }
           },
@@ -186,12 +204,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "944e4b2fbc3f8ee7",
+  "active": "742865ff9bc9b9b1",
   "lastOpenFiles": [
-    "Build Sidegarden fence beds.md",
-    "AWS Solutions Architect - Associate.md",
+    "AWS IAM.md",
     "AWS Fundamentals.md",
+    "AWS Accounts.md",
     "Technical Fundamentals.md",
+    "Pasted image 20240814111049.png",
+    "AWS Solutions Architect - Associate.md",
+    "Course Info.md",
+    "House Plans.md",
+    "Build Sidegarden fence beds.md",
     "Readwise + Reader.md",
     "Birthday Present Ideas.md",
     "Eat a Peach.md",
@@ -210,10 +233,6 @@
     "Sub-resource Integrity.md",
     "Workflow improvements.md",
     "Calibre.md",
-    "Current Environment Setup.md",
-    "conflict-files-obsidian-git.md",
-    "House Lighting Changes.md",
-    "House Plans.md",
     "calibreapp.com/tools",
     "calibreapp.com"
   ]
