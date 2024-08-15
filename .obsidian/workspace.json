@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "21c10a0404fd2747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Access keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bc1e2793579c21e6",
             "type": "leaf",
             "state": {
@@ -66,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d188effc3443c9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06a83e8492d54a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multifactor Authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Fundamentals.md",
+                "file": "OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Fundamentals.md",
+                "file": "OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Fundamentals.md"
+                "file": "OSI Model.md"
               }
             }
           },
@@ -204,12 +240,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "742865ff9bc9b9b1",
+  "active": "d188effc3443c9a3",
   "lastOpenFiles": [
-    "AWS IAM.md",
-    "AWS Fundamentals.md",
-    "AWS Accounts.md",
+    "Pasted image 20240815163006.png",
     "Technical Fundamentals.md",
+    "OSI Model.md",
+    "Multifactor Authentication.md",
+    "AWS Access keys.md",
+    "AWS Fundamentals.md",
+    "AWS IAM.md",
+    "AWS Accounts.md",
     "Pasted image 20240814111049.png",
     "AWS Solutions Architect - Associate.md",
     "Course Info.md",
@@ -229,10 +269,6 @@
     "Make the Bread, Buy the Butter.md",
     "How to with John Wilson.md",
     "Typeset in the Future.md",
-    "The Powdermage Trilogy.md",
-    "Sub-resource Integrity.md",
-    "Workflow improvements.md",
-    "Calibre.md",
     "calibreapp.com/tools",
     "calibreapp.com"
   ]

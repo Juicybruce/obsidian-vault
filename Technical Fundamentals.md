@@ -1,5 +1,5 @@
 ### Multi Factor Authentication
+![[Multifactor Authentication]]
 
-Multiple factors can use:
-![[Pasted image 20240814111049.png]]
-
+### The OSI Model
+![[OSI Model]]
