@@ -9,7 +9,7 @@ Media Layers (dealing with how data is *moved*)
 - Datalink
 - Physical
 
-![[Pasted image 20240815163006.png]]
+![[OSI Model image.png]]
 
 #### Physical - Layer 1
 
