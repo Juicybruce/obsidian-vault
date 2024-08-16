@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "944e4b2fbc3f8ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Solutions Architect - Associate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "302b16181ade0e74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "742865ff9bc9b9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21c10a0404fd2747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Access keys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc1e2793579c21e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS IAM.md",
+                "file": "Workflow improvements.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a842957fcd79beba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI Model.md",
+                "file": "Workflow improvements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI Model.md",
+                "file": "Workflow improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSI Model.md"
+                "file": "Workflow improvements.md"
               }
             }
           },
@@ -228,25 +167,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a842957fcd79beba",
+  "active": "742865ff9bc9b9b1",
   "lastOpenFiles": [
+    "Movies To Watch.md",
+    "AWS Virtual Private Cloud.md",
+    "AWS Fundamentals.md",
+    "AWS Global Infrastructure.md",
     "Technical Fundamentals.md",
+    "AWS Solutions Architect - Associate.md",
+    "AWS Public vs Private services.md",
+    "OSI Model.md",
     "OSI Model image.png",
     "Factors image.png",
-    "OSI Model.md",
     "Multifactor Authentication.md",
     "AWS Access keys.md",
-    "AWS Fundamentals.md",
     "AWS IAM.md",
     "AWS Accounts.md",
-    "AWS Solutions Architect - Associate.md",
     "Course Info.md",
     "House Plans.md",
     "Build Sidegarden fence beds.md",
     "Readwise + Reader.md",
     "Birthday Present Ideas.md",
     "Eat a Peach.md",
-    "Movies To Watch.md",
     "Game AI Pro.md",
     "High Life.md",
     "Let the Sunshine In.md",
@@ -255,8 +197,6 @@
     "Coolify.md",
     "Malazan - Book of the Fallen.md",
     "Make the Bread, Buy the Butter.md",
-    "How to with John Wilson.md",
-    "Typeset in the Future.md",
     "calibreapp.com/tools",
     "calibreapp.com"
   ]

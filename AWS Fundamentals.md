@@ -11,3 +11,12 @@ There is very granular tooling to view what resources are consuming above their 
 
 ### AWS Access Keys
 ![[AWS Access keys]]
+
+### AWS Public vs Private services
+![[AWS Public vs Private services]]
+
+### AWS Global Infrastructure
+![[AWS Global Infrastructure]]
+
+### AWS Virtual Private Cloud
+![[AWS Virtual Private Cloud]]
