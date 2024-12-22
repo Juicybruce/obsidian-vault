@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f19c96d38ab74aca",
+        "id": "f03079aae543814c",
         "type": "tabs",
         "children": [
           {
-            "id": "ce77aa790420b51d",
+            "id": "99def7ee40ea0ae1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS CloudWatch (CW).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f534ac1177d4891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Shared Responsibility Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7905c76b71022fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "High Availability vs Fault Tolerance vs Disaster Recovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aacc511d24d36f86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Virtual Private Cloud.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -85,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cidr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -123,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Virtual Private Cloud.md",
+                "file": "Malazan - Book of the Fallen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Malazan - Book of the Fallen"
             }
           },
           {
@@ -140,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Virtual Private Cloud.md",
+                "file": "Malazan - Book of the Fallen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Malazan - Book of the Fallen"
             }
           },
           {
@@ -154,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,8 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Virtual Private Cloud.md"
-              }
+                "file": "Malazan - Book of the Fallen.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Malazan - Book of the Fallen"
             }
           },
           {
@@ -172,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -184,50 +161,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "aacc511d24d36f86",
+  "active": "99def7ee40ea0ae1",
   "lastOpenFiles": [
-    "Security Headers.md",
     "AWS Route 53.md",
-    "High Availability vs Fault Tolerance vs Disaster Recovery.md",
+    "AWS Cloud Formation (CFN).md",
+    "Untitled Kanban 1.md",
     "Pasted image 20241219102408.webp",
     "Pasted image 20241219095858.webp",
-    "AWS Shared Responsibility Model.md",
     "Pasted image 20241219094654.webp",
-    "AWS CloudWatch (CW).md",
-    "AWS Simple Storage Service (S3).md",
-    "AWS Cloud Formation (CFN).md",
-    "The Dao of Web Design.md",
     "Pasted image 20241205114934.png",
+    "High Availability vs Fault Tolerance vs Disaster Recovery.md",
+    "AWS Simple Storage Service (S3).md",
+    "AWS Shared Responsibility Model.md",
     "AWS Elastic Compute Cloud (EC2).md",
-    "AWS Virtual Private Cloud.md",
-    "Workflow improvements.md",
+    "AWS CloudWatch (CW).md",
+    "Malazan - Book of the Fallen.md",
+    "Untitled.canvas",
+    "V60 Coffee Brewing Method.md",
+    "Untitled Kanban.md",
     "Pumpkin + Sage Pasta.md",
-    "Movies To Watch.md",
-    "AWS Fundamentals.md",
-    "AWS Global Infrastructure.md",
+    "Typeset in the Future.md",
+    "The Powdermage Trilogy.md",
     "Technical Fundamentals.md",
-    "AWS Solutions Architect - Associate.md",
-    "AWS Public vs Private services.md",
+    "Tailscale.md",
+    "Readwise + Reader.md",
     "OSI Model.md",
     "OSI Model image.png",
-    "Factors image.png",
     "Multifactor Authentication.md",
-    "AWS Access keys.md",
-    "AWS IAM.md",
-    "AWS Accounts.md",
-    "Course Info.md",
-    "House Plans.md",
-    "Build Sidegarden fence beds.md",
-    "calibreapp.com/tools",
-    "calibreapp.com"
+    "Make the Bread, Buy the Butter.md",
+    "Let the Sunshine In.md",
+    "How to with John Wilson.md",
+    "High Life.md",
+    "Game AI Pro.md",
+    "Factors image.png",
+    "Eat a Peach.md",
+    "Course Info.md"
   ]
 }
