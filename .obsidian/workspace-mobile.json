@@ -11,10 +11,14 @@
             "id": "a599a56a4543cdf7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily things.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily things"
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily things.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily things.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +127,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Daily things.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -142,6 +150,7 @@
   },
   "active": "a599a56a4543cdf7",
   "lastOpenFiles": [
+    "Daily things.md",
     "WordPress Project Structure 2025.md"
   ]
 }
