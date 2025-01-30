@@ -7,5 +7,13 @@ Ate some blueberries on a walk with Beth
 Got a good pastry
 Cooked the steak well (nice crust)
 
+30th
+Got .5kg of blueberries on a walk with cookie and Beth
+Actually got a bit of practice and study in for my exam
+Did some good exercise
+
+
+
+
 
 
