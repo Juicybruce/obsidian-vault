@@ -12,7 +12,8 @@ Got .5kg of blueberries on a walk with cookie and Beth
 Actually got a bit of practice and study in for my exam
 Did some good exercise
 
-
+31st
+Enjoyed 
 
 
 
