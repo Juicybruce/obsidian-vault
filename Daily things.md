@@ -13,7 +13,9 @@ Actually got a bit of practice and study in for my exam
 Did some good exercise
 
 31st
-Enjoyed 
+Enjoyed some culture(twelfth night)
+Ate the blackberries with yoghurt!
+Beth ls hair looked amazingly cute
 
 
 
