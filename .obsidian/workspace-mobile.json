@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -150,6 +151,12 @@
   },
   "active": "a599a56a4543cdf7",
   "lastOpenFiles": [
+    "Hardware solution.md",
+    "Living Room - TV Setup.md",
+    "Projects.md",
+    "Ambient dynamic backlighting.md",
+    "X-Frame Options.md",
+    "Enable game streaming.md",
     "Daily things.md",
     "WordPress Project Structure 2025.md"
   ]
