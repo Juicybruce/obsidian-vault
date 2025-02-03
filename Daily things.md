@@ -22,6 +22,13 @@ Movie with Beth
 New sound system!
 Got more garden work done, so productive
 
+3rd 
+Passed a practice exam
+Good sauteed beetroot greens (finish with lemon 👌)
+Good brotato run with Mitchell
+
+
+
 
 
 
