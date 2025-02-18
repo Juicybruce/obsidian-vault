@@ -33,7 +33,9 @@ Good salad for lunch
 Cookie was so wiggly when I got home
 
 14th
-
+Nice walk through town, twice
+Cool cast iron lantern
+Good pub lunch
 
 
 
