@@ -38,7 +38,12 @@ Cool cast iron lantern
 Good pub lunch
 
 24th
-Cookie looking over the f
+Cookie looking over the fence in my arms
+Filled up the nice lighter, looks good
+Implanted a slider without too much issue
+
+
+
 
 
 
