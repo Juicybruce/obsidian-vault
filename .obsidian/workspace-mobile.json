@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V60 Coffee Brewing Method.md",
+                "file": "Daily things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V60 Coffee Brewing Method"
+              "title": "Daily things"
             }
           }
         ]
@@ -152,6 +152,7 @@
   },
   "active": "a599a56a4543cdf7",
   "lastOpenFiles": [
+    "V60 Coffee Brewing Method.md",
     "Daily things.md",
     "Pasted image 20250123131317.webp",
     "VPC Routing & Internet Gateway.md",
@@ -186,7 +187,6 @@
     "AWS Elastic Compute Cloud Basics (EC2).md",
     "Network Address Translation & NAT Gateways.md",
     "NOSQL Databases & DynamoDB.md",
-    "Introduction to Containers.md",
-    "Architecture & Resilience.md"
+    "Introduction to Containers.md"
   ]
 }
