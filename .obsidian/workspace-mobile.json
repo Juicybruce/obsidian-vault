@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Athena.md",
+                "file": "Clothing sizes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon Athena"
+              "title": "Clothing sizes"
             }
           }
         ]
@@ -152,6 +152,8 @@
   },
   "active": "a599a56a4543cdf7",
   "lastOpenFiles": [
+    "Amazon Athena.md",
+    "Clothing sizes.md",
     "Daily things.md",
     "V60 Coffee Brewing Method.md",
     "Pasted image 20250123131317.webp",
@@ -172,7 +174,6 @@
     "DynamoDB Streams and Features.md",
     "Virtualisation 101.md",
     "EBS Encryption.md",
-    "Amazon Athena.md",
     "Network Interfaces, Instance IPs & DNS.md",
     "Security groups.md",
     "Instance Store.md",
@@ -186,7 +187,6 @@
     "Custom VPCs.md",
     "AWS Elastic Compute Cloud Basics (EC2).md",
     "Network Address Translation & NAT Gateways.md",
-    "NOSQL Databases & DynamoDB.md",
-    "Introduction to Containers.md"
+    "NOSQL Databases & DynamoDB.md"
   ]
 }
