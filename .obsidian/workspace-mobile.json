@@ -152,6 +152,7 @@
   },
   "active": "a599a56a4543cdf7",
   "lastOpenFiles": [
+    "PXL_20250307_060912343.jpg",
     "Amazon Athena.md",
     "Clothing sizes.md",
     "Daily things.md",
@@ -186,7 +187,6 @@
     "Amazon Machine Images (AMIs).md",
     "Custom VPCs.md",
     "AWS Elastic Compute Cloud Basics (EC2).md",
-    "Network Address Translation & NAT Gateways.md",
-    "NOSQL Databases & DynamoDB.md"
+    "Network Address Translation & NAT Gateways.md"
   ]
 }
