@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clothing sizes.md",
+                "file": "Timemore C2 grinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clothing sizes"
+              "title": "Timemore C2 grinder"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Clock",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -99,7 +99,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "87bb6f6f7cc31d81",
@@ -166,13 +166,13 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
+    "Clothing sizes.md",
     "Timemore C2 grinder.md",
     "V60 Coffee Brewing Method.md",
     "Stretches.md",
     "Present List.md",
     "Lights.md",
     "RSI + Keyboard Research.md",
-    "Clothing sizes.md",
     "PXL_20250307_060912343~2.jpg",
     "PXL_20250307_060912343.jpg",
     "Amazon Athena.md",
