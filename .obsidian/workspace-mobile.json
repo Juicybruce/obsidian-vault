@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timemore C2 grinder.md",
+                "file": "Cushion measurements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timemore C2 grinder"
+              "title": "Cushion measurements"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Cush",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -164,10 +164,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "323a885e7297ff40",
+  "active": "9dc4a1628df34873",
   "lastOpenFiles": [
-    "Clothing sizes.md",
     "Timemore C2 grinder.md",
+    "Cushion measurements.md",
+    "Pasted image 20250418120811.webp",
+    "Clothing sizes.md",
     "V60 Coffee Brewing Method.md",
     "Stretches.md",
     "Present List.md",
@@ -186,7 +188,6 @@
     "Pasted image 20250130144402.webp",
     "Pasted image 20250123131638.webp",
     "Pasted image 20250122124052.webp",
-    "Pasted image 20250123103524.webp",
     "Elastic Container Registry (ECR).md",
     "DynamoDB Accelerator (DAX).md",
     "AWS Elastic Compute Cloud.md",
@@ -200,7 +201,6 @@
     "Horizontal vs Vertical Scaling.md",
     "TasFire WordPress Structure.md",
     "Network Access Control Lists - NACLs.md",
-    "AWS Containers & Elastic Container Service.md",
-    "Instance Metadata.md"
+    "AWS Containers & Elastic Container Service.md"
   ]
 }
