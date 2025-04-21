@@ -2,7 +2,7 @@
 ##  Day 1: Legs
 
 - Dumbbell goblet squats (Smith machine squats)
-- Dumbbell walking lunges (Leg press machine)
+- Dumbbell walking lunges (Leg press machine 45 -15r X 3)
 - Dumbbell Romanian deadlifts (Lying leg curl machine)
 - Kettlebell step-ups on bench (Leg extension machine)
 - Standing dumbbell calf raises (Seated calf raise machine 35 - 15r X 3)
