@@ -7,7 +7,8 @@
 - Kettlebell step-ups on bench (Leg extension machine)
 - Standing dumbbell calf raises (Seated calf raise machine 35 - 15r X 3)
 
-E
+Extensions:
+Hip abduction 54 - 14r X 3
 
 ## Day 2: Arms & Chest
 
