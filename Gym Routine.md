@@ -5,7 +5,7 @@
 - Dumbbell walking lunges (Leg press machine)
 - Dumbbell Romanian deadlifts (Lying leg curl machine)
 - Kettlebell step-ups on bench (Leg extension machine)
-- Standing dumbbell calf raises (Seated calf raise machine)
+- Standing dumbbell calf raises (Seated calf raise machine 35 - 15r X 3)
 
 ## Day 2: Arms & Chest
 
