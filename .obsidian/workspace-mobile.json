@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cushion measurements.md",
+                "file": "Gym Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cushion measurements"
+              "title": "Gym Routine"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Cush",
+            "query": "Gy",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -166,8 +166,9 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
-    "Timemore C2 grinder.md",
     "Cushion measurements.md",
+    "Gym Routine.md",
+    "Timemore C2 grinder.md",
     "Pasted image 20250418120811.webp",
     "Clothing sizes.md",
     "V60 Coffee Brewing Method.md",
@@ -200,7 +201,6 @@
     "EBS vs Instance Store.md",
     "Horizontal vs Vertical Scaling.md",
     "TasFire WordPress Structure.md",
-    "Network Access Control Lists - NACLs.md",
-    "AWS Containers & Elastic Container Service.md"
+    "Network Access Control Lists - NACLs.md"
   ]
 }
