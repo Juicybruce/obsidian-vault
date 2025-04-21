@@ -4,7 +4,7 @@
 - Dumbbell goblet squats (Smith machine squats)
 - Dumbbell walking lunges (Leg press machine 45 -15r X 3)
 - Dumbbell Romanian deadlifts (Lying leg curl machine)
-- Kettlebell step-ups on bench (Leg extension machine)
+- Kettlebell step-ups on bench (Leg extension machine 33 - 14r X 3)
 - Standing dumbbell calf raises (Seated calf raise machine 35 - 15r X 3)
 
 Extensions:
