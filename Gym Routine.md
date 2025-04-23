@@ -45,3 +45,8 @@ Hip thrust and hip bridge
 - Bird-dogs: 3 sets of 10-12 each side
 - Dumbbell standing side bends: 3 sets of 12-15 each side
 - V-ups or knee tucks: 3 sets of 12-15 reps
+
+Stretch sessions
+
+Hold 60-90secs
+Hip flexor focus
