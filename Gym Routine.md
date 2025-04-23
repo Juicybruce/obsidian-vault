@@ -10,6 +10,8 @@
 Extensions:
 Hip abduction 54 - 14r X 3
 
+Hip thrust and hip bridge
+
 ## Day 2: Arms & Chest
 
 - Dumbbell chest press (Machine chest press)
