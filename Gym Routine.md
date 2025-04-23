@@ -16,7 +16,7 @@ Hip thrust and hip bridge
 
 - Dumbbell chest press (Machine chest press 26 - 12r X 3)
 - Dumbbell flyes on bench/floor 8kg - 14r X 3 (Cable flyes)
-- Dumbbell curls (Cable curls)
+- Dumbbell curls (Cable curls) (machine 39 - 15r X 3)
 - Dumbbell skull crushers 8kg - 12r X 3 (Tricep pushdown cable)
 - Dumbbell overhead press (Machine shoulder press)
 
