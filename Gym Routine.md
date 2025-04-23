@@ -15,7 +15,7 @@ Hip thrust and hip bridge
 ## Day 2: Arms & Chest
 
 - Dumbbell chest press (Machine chest press)
-- Dumbbell flyes on bench/floor (Cable flyes)
+- Dumbbell flyes on bench/floor 8kg - 14r X 3 (Cable flyes)
 - Dumbbell curls (Cable curls)
 - Dumbbell skull crushers (Tricep pushdown cable)
 - Dumbbell overhead press (Machine shoulder press)
