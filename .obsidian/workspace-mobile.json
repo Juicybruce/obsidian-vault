@@ -149,9 +149,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "166c0a44adde95c6",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +175,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "323a885e7297ff40",
+  "active": "9dc4a1628df34873",
   "lastOpenFiles": [
     "Cushion measurements.md",
     "Gym Routine.md",
