@@ -20,6 +20,7 @@ Hip thrust and hip bridge
 - Dumbbell skull crushers 8kg - 12r X 3 (Tricep pushdown cable)
 - Dumbbell overhead press (Machine shoulder press 20 - 12r X 3)
 
+45deg lat raises - 5kg - 15
 ## Day 3: Back
 
 - Dumbbell single-arm rows (Cable lat pulldown)
