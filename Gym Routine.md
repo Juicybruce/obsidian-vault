@@ -26,7 +26,7 @@ Hip thrust and hip bridge
 - Dumbbell single-arm rows 10 * 15 (Cable lat pulldown)
 - Bent-over dumbbell rows (Seated cable row)
 - Superman holds (Back extension machine)
-- Dumbbell reverse flyes (Face pulls cable)
+- Dumbbell reverse flyes  (Face pulls cable / rear delt machine 33 X 10)
 - Dumbbell shrugs 16 X 15 (Kettlebell high pulls)
 
 ## Core Workout A (Cardio Day 1)
