@@ -23,11 +23,11 @@ Hip thrust and hip bridge
 45deg lat raises - 5kg - 15
 ## Day 3: Back
 
-- Dumbbell single-arm rows (Cable lat pulldown)
+- Dumbbell single-arm rows 10 * 15 (Cable lat pulldown)
 - Bent-over dumbbell rows (Seated cable row)
 - Superman holds (Back extension machine)
 - Dumbbell reverse flyes (Face pulls cable)
-- Dumbbell shrugs (Kettlebell high pulls)
+- Dumbbell shrugs 16 X 15 (Kettlebell high pulls)
 
 ## Core Workout A (Cardio Day 1)
 
