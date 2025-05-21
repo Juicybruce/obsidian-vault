@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gym",
+            "query": "Grin",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -175,7 +175,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9dc4a1628df34873",
+  "active": "323a885e7297ff40",
   "lastOpenFiles": [
     "Clothing sizes.md",
     "Gym Routine.md",
