@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D Character - Arcane Trickster Rogue (Unnamed).md",
+                "file": "Tiramisu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D&D Character - Arcane Trickster Rogue (Unnamed)"
+              "title": "Tiramisu"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "D&",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -177,8 +177,9 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
-    "Timemore C2 grinder.md",
     "D&D Character - Arcane Trickster Rogue (Unnamed).md",
+    "Tiramisu.md",
+    "Timemore C2 grinder.md",
     "Gym Routine.md",
     "Clothing sizes.md",
     "Cushion measurements.md",
@@ -211,7 +212,6 @@
     "Security groups.md",
     "Instance Store.md",
     "EBS vs Instance Store.md",
-    "Horizontal vs Vertical Scaling.md",
-    "TasFire WordPress Structure.md"
+    "Horizontal vs Vertical Scaling.md"
   ]
 }
