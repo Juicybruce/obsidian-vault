@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiramisu.md",
+                "file": "Carbonara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiramisu"
+              "title": "Carbonara"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Carb",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -177,8 +177,9 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
-    "D&D Character - Arcane Trickster Rogue (Unnamed).md",
     "Tiramisu.md",
+    "Carbonara.md",
+    "D&D Character - Arcane Trickster Rogue (Unnamed).md",
     "Timemore C2 grinder.md",
     "Gym Routine.md",
     "Clothing sizes.md",
@@ -211,7 +212,6 @@
     "Network Interfaces, Instance IPs & DNS.md",
     "Security groups.md",
     "Instance Store.md",
-    "EBS vs Instance Store.md",
-    "Horizontal vs Vertical Scaling.md"
+    "EBS vs Instance Store.md"
   ]
 }
