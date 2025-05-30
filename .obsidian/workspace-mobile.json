@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Measurements ",
+            "query": "Pan",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -175,8 +175,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9dc4a1628df34873",
+  "active": "323a885e7297ff40",
   "lastOpenFiles": [
+    "Sourdough Pancakes.md",
+    "TTRPGs.md",
+    "Untitled 1.md",
     "Carbonara.md",
     "Pasted image 20250418120811 1-1.webp",
     "9fixzysy.webp",
@@ -209,8 +212,6 @@
     "AWS Elastic Compute Cloud.md",
     "DynamoDB Streams and Features.md",
     "Virtualisation 101.md",
-    "EBS Encryption.md",
-    "Network Interfaces, Instance IPs & DNS.md",
-    "Security groups.md"
+    "EBS Encryption.md"
   ]
 }
