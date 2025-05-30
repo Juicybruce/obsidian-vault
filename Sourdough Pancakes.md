@@ -3,7 +3,7 @@
 Ingredients: 
 
 Dry Ingredients
-- 190g all purpose flour, spooned and leveled
+- 190g all purpose flour
 - 25g sugar
 - salt
   
