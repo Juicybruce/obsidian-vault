@@ -177,6 +177,8 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
+    "Recycle Rewards training.md",
+    "CSS + JS Animation.md",
     "Cushion Measurements.md",
     "Sourdough Pancakes.md",
     "TTRPGs.md",
@@ -210,8 +212,6 @@
     "Elastic Container Registry (ECR).md",
     "DynamoDB Accelerator (DAX).md",
     "AWS Elastic Compute Cloud.md",
-    "DynamoDB Streams and Features.md",
-    "Virtualisation 101.md",
-    "EBS Encryption.md"
+    "DynamoDB Streams and Features.md"
   ]
 }
