@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sourdough Pancakes.md",
+                "file": "Gym Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sourdough Pancakes"
+              "title": "Gym Routine"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Panca",
+            "query": "Gy",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -177,10 +177,10 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
+    "Sourdough Pancakes.md",
     "Recycle Rewards training.md",
     "CSS + JS Animation.md",
     "Cushion Measurements.md",
-    "Sourdough Pancakes.md",
     "TTRPGs.md",
     "Untitled 1.md",
     "Carbonara.md",
