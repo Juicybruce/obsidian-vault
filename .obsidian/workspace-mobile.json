@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gy",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -175,7 +175,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9dc4a1628df34873",
+  "active": "323a885e7297ff40",
   "lastOpenFiles": [
     "Sourdough Pancakes.md",
     "Recycle Rewards training.md",
