@@ -1,2 +1,2 @@
-Internal measurements (for cusions)
-560 x 800 x 70mm
+Internal measurements (for cushions)
+560 x 800 x 75mm - both bunks
