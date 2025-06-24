@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dog bed.md",
+                "file": "Gym Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dog bed"
+              "title": "Gym Routine"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Gym",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -177,8 +177,8 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
-    "Gym Routine.md",
     "Dog bed.md",
+    "Gym Routine.md",
     "Sourdough Pancakes.md",
     "Recycle Rewards training.md",
     "CSS + JS Animation.md",
