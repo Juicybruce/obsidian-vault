@@ -177,6 +177,7 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
+    "Pasta alla Vodka.md",
     "Dog bed.md",
     "Gym Routine.md",
     "Sourdough Pancakes.md",
@@ -211,7 +212,6 @@
     "Pasted image 20250130145436.webp",
     "Pasted image 20250130144402.webp",
     "Elastic Container Registry (ECR).md",
-    "DynamoDB Accelerator (DAX).md",
-    "AWS Elastic Compute Cloud.md"
+    "DynamoDB Accelerator (DAX).md"
   ]
 }
