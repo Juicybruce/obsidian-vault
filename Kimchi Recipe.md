@@ -4,7 +4,7 @@ Sources:
 [How To Make Kimchi At Home...Easy Mode - Joshua Wiessman](https://www.joshuaweissman.com/recipes/best-easy-homemade-kimchi-recipe) - Simple and easy
 [Traditional kimchi recipe (Tongbaechu-kimchi: 통배추김치)](https://www.youtube.com/watch?v=eTucCw1w6Ak) - traditional, little more complex
 [Mak-kimchi 막김치 Maangchi](https://www.maangchi.com/about) - little easier
-[https://www.youtube.com/watch?v=sUwy71ddj1M](https://www.youtube.com/watch?v=sUwy71ddj1M) - inbetween, 
+[Brad Makes Kimchi | It's Alive | Bon Appétit](https://www.youtube.com/watch?v=sUwy71ddj1M) - inbetween, 
 
 ### Ingredients:
 
