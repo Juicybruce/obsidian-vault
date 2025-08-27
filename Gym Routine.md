@@ -1,4 +1,5 @@
 
+
 ##  Day 1: Legs
 
 - Dumbbell goblet squats 7kg - 15r X 3 (Smith machine squats)
