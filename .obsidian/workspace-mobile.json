@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta alla Vodka.md",
-                "mode": "source",
+                "file": "Sauerkraut.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pasta alla Vodka"
+              "title": "Sauerkraut"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Vodk",
+            "query": "Saue",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -177,8 +177,14 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
+    "Kimchi Recipe.md",
     "Gym Routine.md",
     "Pasta alla Vodka.md",
+    "The Powdermage Trilogy.md",
+    "Carbonara.md",
+    "Timemore C2 grinder.md",
+    "V60 Coffee Brewing Method.md",
+    "Coffee.md",
     "Dog bed.md",
     "Sourdough Pancakes.md",
     "Recycle Rewards training.md",
@@ -186,16 +192,13 @@
     "Cushion Measurements.md",
     "TTRPGs.md",
     "Untitled 1.md",
-    "Carbonara.md",
     "Pasted image 20250418120811 1-1.webp",
     "9fixzysy.webp",
     "Tiramisu.md",
     "D&D Character - Arcane Trickster Rogue (Unnamed).md",
-    "Timemore C2 grinder.md",
     "Clothing sizes.md",
     "Cushion measurements.md",
     "Pasted image 20250418120811.webp",
-    "V60 Coffee Brewing Method.md",
     "Stretches.md",
     "Present List.md",
     "Lights.md",
@@ -207,11 +210,8 @@
     "Pasted image 20250123131317.webp",
     "VPC Routing & Internet Gateway.md",
     "Pasted image 20250122123824.webp",
-    "Advanced EC2.md",
     "Pasted image 20250123094454.webp",
     "Pasted image 20250130145436.webp",
-    "Pasted image 20250130144402.webp",
-    "Elastic Container Registry (ECR).md",
-    "DynamoDB Accelerator (DAX).md"
+    "Pasted image 20250130144402.webp"
   ]
 }
