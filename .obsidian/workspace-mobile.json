@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym Routine.md",
+                "file": "Carbonara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gym Routine"
+              "title": "Carbonara"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gy",
+            "query": "Carb",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -178,9 +178,9 @@
   },
   "active": "9dc4a1628df34873",
   "lastOpenFiles": [
+    "Gym Routine.md",
     "Sauerkraut.md",
     "Kimchi Recipe.md",
-    "Gym Routine.md",
     "Pasta alla Vodka.md",
     "The Powdermage Trilogy.md",
     "Carbonara.md",
