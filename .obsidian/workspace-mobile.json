@@ -60,7 +60,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Vod",
+            "query": "Bagel",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -172,7 +172,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d01b555b2e605f02",
+  "active": "323a885e7297ff40",
   "lastOpenFiles": [
     "Game idea.md",
     "Pottery ideas.md",
