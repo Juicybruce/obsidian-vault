@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta alla Vodka.md",
+                "file": "Timemore C2 grinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pasta alla Vodka"
+              "title": "Timemore C2 grinder"
             }
           }
         ],
@@ -60,7 +60,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Bagel",
+            "query": "Grind",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -172,8 +172,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "323a885e7297ff40",
+  "active": "d01b555b2e605f02",
   "lastOpenFiles": [
+    "Pasta alla Vodka.md",
     "Game idea.md",
     "Pottery ideas.md",
     "Untitled Kanban.md",
@@ -181,7 +182,6 @@
     "Gym Routine.md",
     "Sauerkraut.md",
     "Kimchi Recipe.md",
-    "Pasta alla Vodka.md",
     "The Powdermage Trilogy.md",
     "Timemore C2 grinder.md",
     "V60 Coffee Brewing Method.md",

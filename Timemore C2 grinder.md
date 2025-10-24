@@ -7,5 +7,5 @@ NOTE:
 - '0' is measured from the **finest** burr size possible. Rotate clockwise until you can't go further, that is '0'
 - Adjust this based on the roast level (lighter roast = finer grind = lower clicks)
 
-V60 - 20 clicks
+V60 - 24 clicks
 AeroPress - 13 clicks
