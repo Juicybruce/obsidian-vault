@@ -60,8 +60,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Grind",
-            "matchingCase": false,
+            "query": "Word",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -172,7 +172,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d01b555b2e605f02",
+  "active": "323a885e7297ff40",
   "lastOpenFiles": [
     "Pasta alla Vodka.md",
     "Game idea.md",
