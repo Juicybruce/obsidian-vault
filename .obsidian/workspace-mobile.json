@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timemore C2 grinder.md",
+                "file": "Irrigation Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timemore C2 grinder"
+              "title": "Irrigation Plan"
             }
           }
         ],
@@ -60,7 +60,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Word",
+            "query": "Irr",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -172,8 +172,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "323a885e7297ff40",
+  "active": "d01b555b2e605f02",
   "lastOpenFiles": [
+    "Timemore C2 grinder.md",
+    "Pasted image 20251207102632.webp",
+    "Irrigation Plan.md",
     "Pasta alla Vodka.md",
     "Game idea.md",
     "Pottery ideas.md",
@@ -183,7 +186,6 @@
     "Sauerkraut.md",
     "Kimchi Recipe.md",
     "The Powdermage Trilogy.md",
-    "Timemore C2 grinder.md",
     "V60 Coffee Brewing Method.md",
     "Coffee.md",
     "Dog bed.md",
@@ -201,14 +203,11 @@
     "Cushion measurements.md",
     "Pasted image 20250418120811.webp",
     "Stretches.md",
-    "Present List.md",
-    "Lights.md",
     "PXL_20250307_060912343~2.jpg",
     "PXL_20250307_060912343.jpg",
     "Pasted image 20250123131317.webp",
     "Pasted image 20250122123824.webp",
     "Pasted image 20250123094454.webp",
-    "Pasted image 20250130145436.webp",
-    "Pasted image 20250130144402.webp"
+    "Pasted image 20250130145436.webp"
   ]
 }
