@@ -60,7 +60,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Chr",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
