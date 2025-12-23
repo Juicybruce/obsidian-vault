@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timemore C2 grinder.md",
+                "file": "Bagels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timemore C2 grinder"
+              "title": "Bagels"
             }
           }
         ],
@@ -60,7 +60,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Grind",
+            "query": "Bage",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -175,13 +175,13 @@
   },
   "active": "d01b555b2e605f02",
   "lastOpenFiles": [
+    "Timemore C2 grinder.md",
     "Bagels.md",
     "Irrigation Plan.md",
     "WordPress Generic Training Docs.md",
     "TasAlert Disaster Drills.md",
     "Rosny Farm Specific Training.md",
     "Issues as software notes.md",
-    "Timemore C2 grinder.md",
     "Pasted image 20251207102632.webp",
     "Pasta alla Vodka.md",
     "Game idea.md",
