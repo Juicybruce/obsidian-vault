@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Timemore C2 grinder"
             }
+          },
+          {
+            "id": "a4b36beebe48e2e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vows"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Grind",
+            "query": "Grin",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -173,14 +187,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d01b555b2e605f02",
+  "active": "a4b36beebe48e2e3",
   "lastOpenFiles": [
+    "Vows.md",
+    "Timemore C2 grinder.md",
+    "Bagels.md",
     "Irrigation Plan.md",
     "WordPress Generic Training Docs.md",
     "TasAlert Disaster Drills.md",
     "Rosny Farm Specific Training.md",
     "Issues as software notes.md",
-    "Timemore C2 grinder.md",
     "Pasted image 20251207102632.webp",
     "Pasta alla Vodka.md",
     "Game idea.md",
@@ -202,8 +218,6 @@
     "Untitled 1.md",
     "Pasted image 20250418120811 1-1.webp",
     "9fixzysy.webp",
-    "Tiramisu.md",
-    "D&D Character - Arcane Trickster Rogue (Unnamed).md",
     "Pasted image 20250418120811.webp",
     "PXL_20250307_060912343~2.jpg",
     "PXL_20250307_060912343.jpg",
