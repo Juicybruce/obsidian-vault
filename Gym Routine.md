@@ -52,3 +52,7 @@ Stretch sessions
 
 Hold 60-90secs
 Hip flexor focus
+
+Weight new split
+- 50kg bench
+- pec 65.6kg

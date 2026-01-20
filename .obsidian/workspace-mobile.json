@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vows.md",
+                "file": "Gym Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vows"
+              "title": "Gym Routine"
             }
           }
         ],
@@ -74,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Grin",
+            "query": "Gym",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -189,6 +189,7 @@
   },
   "active": "a4b36beebe48e2e3",
   "lastOpenFiles": [
+    "Vows.md",
     "THE YELLOW GOO.md",
     "THE MONSTER.md",
     "Session Plan.md",
@@ -197,7 +198,6 @@
     "Mothership.md",
     "Haunting of Ypsilon-14.md",
     "bunk info.md",
-    "Vows.md",
     "Timemore C2 grinder.md",
     "Bagels.md",
     "Irrigation Plan.md",
