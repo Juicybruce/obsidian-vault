@@ -57,4 +57,4 @@ Weight new split
 - 50kg bench
 - pec 65.6kg
 - leg ext 41kg
-- 
+- rope ext 
