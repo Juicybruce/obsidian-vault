@@ -58,3 +58,8 @@ Weight new split
 - pec 65.6kg
 - leg ext 41kg
 - rope ext 37kg
+
+- 55 trap deadlift
+- 12kg incline press
+- 9kg skullcrushers
+- 
