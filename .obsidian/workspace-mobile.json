@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym Routine.md",
+                "file": "Vows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gym Routine"
+              "title": "Vows"
             }
           }
         ],
@@ -74,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gym",
+            "query": "Vows",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -189,6 +189,7 @@
   },
   "active": "a4b36beebe48e2e3",
   "lastOpenFiles": [
+    "Gym Routine.md",
     "Vows.md",
     "THE YELLOW GOO.md",
     "THE MONSTER.md",
@@ -211,7 +212,6 @@
     "Pottery ideas.md",
     "Untitled Kanban.md",
     "Carbonara.md",
-    "Gym Routine.md",
     "Sauerkraut.md",
     "Kimchi Recipe.md",
     "The Powdermage Trilogy.md",
