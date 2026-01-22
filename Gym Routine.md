@@ -62,4 +62,5 @@ Weight new split
 - 55 trap deadlift
 - 12kg incline press
 - 9kg skullcrushers
+- 8kg lat raise
 - 
