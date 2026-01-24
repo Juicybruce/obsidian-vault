@@ -1,4 +1,4 @@
-I know exactly the colour of blue
+I know exactly the colour of blue, 
 
 The way your eyes sparkle when you are being silly, when we share a stupid joke we have work shopped for way too long
 
