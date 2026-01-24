@@ -1,4 +1,4 @@
-I know exactly the colour of blue, how they change
+I know exactly the colour of blue, how they change in the sunlight, or how startling blue they become when you have been crying (like today)
 
 The way your eyes sparkle when you are being silly, when we share a stupid joke we have work shopped for way too long
 
