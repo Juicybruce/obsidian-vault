@@ -30,7 +30,7 @@
 | [Dumbbell Hammer Curls](https://www.muscleandstrength.com/exercises/standing-hammer-curl.html)         | 3    | 10      |                |
 | [Rope Extension](https://www.muscleandstrength.com/exercises/rope-tricep-extension.html)               | 3    | 10      | 37kg           |
 | [Plank](https://www.muscleandstrength.com/exercises/hover.html)                                        | 5    | 20 secs |                |
-
+[sea]()
 ## Day 3
 
 | Exercise                                                                                                | Sets | Reps    | Current Weight |
