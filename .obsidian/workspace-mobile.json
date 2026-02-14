@@ -154,7 +154,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily things.md"
+            "file": "Ssamjang, Brown Butter and Prawn pasta.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
