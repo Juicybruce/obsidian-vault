@@ -74,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Vow",
+            "query": "Prawn",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -176,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4b36beebe48e2e3",
+  "active": "323a885e7297ff40",
   "lastOpenFiles": [
     "Vows.md",
     "Gym Routine.md",
