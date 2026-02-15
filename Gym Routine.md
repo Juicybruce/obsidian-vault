@@ -21,7 +21,7 @@
 
 | Exercise                                                                                               | Sets | Reps    | Current Weight |
 | ------------------------------------------------------------------------------------------------------ | ---- | ------- | -------------- |
-| [Bench Press](https://www.muscleandstrength.com/exercises/barbell-bench-press.html)                    | 5    | 5       | 6kg            |
+| [Bench Press](https://www.muscleandstrength.com/exercises/barbell-bench-press.html)                    | 5    | 5       | 60kg           |
 | [Machine Pec Deck](https://www.muscleandstrength.com/exercises/pec-dec.html)                           | 3    | 12      | 65.6kg         |
 | [Leg Extension](https://www.muscleandstrength.com/exercises/leg-extension.html)                        | 4    | 10      | 41kg           |
 | [Leg Curl](https://www.muscleandstrength.com/exercises/leg-curl.html)                                  | 4    | 10      |                |
