@@ -28,7 +28,7 @@
 | [Pullup](https://www.muscleandstrength.com/exercises/wide-grip-pull-up.html)                           | 4    | 10      |                |
 | [Seated Lateral Raise](https://www.muscleandstrength.com/exercises/seated-dumbbell-lateral-raise.html) | 4    | 10      |                |
 | [Dumbbell Hammer Curls](https://www.muscleandstrength.com/exercises/standing-hammer-curl.html)         | 3    | 10      | 12kg           |
-| [Rope Extension](https://www.muscleandstrength.com/exercises/rope-tricep-extension.html)               | 3    | 10      | 37kg           |
+| [Rope Extension](https://www.muscleandstrength.com/exercises/rope-tricep-extension.html)               | 3    | 10      | 40.kg          |
 | [Plank](https://www.muscleandstrength.com/exercises/hover.html)                                        | 5    | 20 secs |                |
 [sea]()
 ## Day 3
