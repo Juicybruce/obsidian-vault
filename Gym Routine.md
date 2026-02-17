@@ -36,7 +36,7 @@
 | Exercise                                                                                                | Sets | Reps    | Current Weight |
 | ------------------------------------------------------------------------------------------------------- | ---- | ------- | -------------- |
 | [Deadlift](https://www.muscleandstrength.com/exercises/deadlifts.html)                                  | 5    | 5       | 55kg           |
-| [Incline Dumbbell Press](https://www.muscleandstrength.com/exercises/incline-dumbbell-bench-press.html) | 4    | 10      |                |
+| [Incline Dumbbell Press](https://www.muscleandstrength.com/exercises/incline-dumbbell-bench-press.html) | 4    | 10      | 15kg           |
 | [Lateral Raise](https://www.muscleandstrength.com/exercises/dumbbell-lateral-raise.html)                | 4    | 10      | 8kg            |
 | [Pulldown](https://www.muscleandstrength.com/exercises/lat-pull-down.html)                              | 4    | 10      |                |
 | [Leg Press](https://www.muscleandstrength.com/exercises/45-degree-leg-press.html)                       | 4    | 10      |                |
