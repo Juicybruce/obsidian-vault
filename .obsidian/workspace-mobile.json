@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timemore C2 grinder.md",
+                "file": "Gym Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timemore C2 grinder"
+              "title": "Gym Routine"
             }
           }
         ],
@@ -74,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gri",
+            "query": "Gym",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -154,7 +154,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ssamjang, Brown Butter and Prawn pasta.md",
+            "file": "Gym Routine.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -179,6 +179,7 @@
   },
   "active": "a4b36beebe48e2e3",
   "lastOpenFiles": [
+    "Timemore C2 grinder.md",
     "Public Domain Images for Printing.md",
     "V60 Coffee Brewing Method.md",
     "Coffee.md",
@@ -193,7 +194,6 @@
     "Mothership.md",
     "Haunting of Ypsilon-14.md",
     "bunk info.md",
-    "Timemore C2 grinder.md",
     "Bagels.md",
     "Irrigation Plan.md",
     "WordPress Generic Training Docs.md",
