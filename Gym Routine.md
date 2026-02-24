@@ -14,7 +14,7 @@
 | [Lunge](https://www.muscleandstrength.com/exercises/dumbbell-lunge.html)                           | 4    | 10      |                |
 | [Dumbbell Curl](https://www.muscleandstrength.com/exercises/standing-dumbbell-curl.html)           | 3    | 10      | 10kg           |
 | [Standing Barbell Tricep Extension](https://www.muscleandstrength.com/exercises/french-press.html) | 3    | 10      |                |
-| [Calf Raise](https://www.muscleandstrength.com/exercises/seated-calf-raise.html)                   | 3    | 12      |                |
+| [Calf Raise](https://www.muscleandstrength.com/exercises/seated-calf-raise.html)                   | 3    | 12      | 91kg           |
 | [Plank](https://www.muscleandstrength.com/exercises/hover.html)                                    | 5    | 20 secs |                |
 
 ## Day 2
