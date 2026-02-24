@@ -174,13 +174,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "a4b36beebe48e2e3",
   "lastOpenFiles": [
+    "Public Domain Images for Printing.md",
     "V60 Coffee Brewing Method.md",
     "Coffee.md",
     "Gym Routine.md",
@@ -209,7 +208,6 @@
     "Carbonara.md",
     "Sauerkraut.md",
     "Kimchi Recipe.md",
-    "The Powdermage Trilogy.md",
     "Pasted image 20250418120811 1-1.webp",
     "9fixzysy.webp",
     "Pasted image 20250418120811.webp",
