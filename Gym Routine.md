@@ -7,7 +7,7 @@
 
 | Exercise                                                                                           | Sets | Reps    | Current Weight |
 | -------------------------------------------------------------------------------------------------- | ---- | ------- | -------------- |
-| [Squat](https://www.muscleandstrength.com/exercises/squat.html)                                    | 5    | 5       |                |
+| [Squat](https://www.muscleandstrength.com/exercises/squat.html)                                    | 5    | 5       | 50kg           |
 | [Dumbbell Bench](https://www.muscleandstrength.com/exercises/dumbbell-bench-press.html)            | 4    | 10      |                |
 | [Dumbbell Row](https://www.muscleandstrength.com/exercises/one-arm-dumbbell-row.html)              | 4    | 10      |                |
 | [Seated Dumbbell Press](https://www.muscleandstrength.com/exercises/seated-dumbbell-press.html)    | 4    | 10      |                |
