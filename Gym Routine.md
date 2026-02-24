@@ -12,7 +12,7 @@
 | [Dumbbell Row](https://www.muscleandstrength.com/exercises/one-arm-dumbbell-row.html)              | 4    | 10      |                |
 | [Seated Dumbbell Press](https://www.muscleandstrength.com/exercises/seated-dumbbell-press.html)    | 4    | 10      | 13kg           |
 | [Lunge](https://www.muscleandstrength.com/exercises/dumbbell-lunge.html)                           | 4    | 10      |                |
-| [Dumbbell Curl](https://www.muscleandstrength.com/exercises/standing-dumbbell-curl.html)           | 3    | 10      |                |
+| [Dumbbell Curl](https://www.muscleandstrength.com/exercises/standing-dumbbell-curl.html)           | 3    | 10      | 10kg           |
 | [Standing Barbell Tricep Extension](https://www.muscleandstrength.com/exercises/french-press.html) | 3    | 10      |                |
 | [Calf Raise](https://www.muscleandstrength.com/exercises/seated-calf-raise.html)                   | 3    | 12      |                |
 | [Plank](https://www.muscleandstrength.com/exercises/hover.html)                                    | 5    | 20 secs |                |
