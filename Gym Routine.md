@@ -9,7 +9,7 @@
 | -------------------------------------------------------------------------------------------------- | ---- | ------- | -------------- |
 | [Squat](https://www.muscleandstrength.com/exercises/squat.html)                                    | 5    | 5       | 50kg           |
 | [Dumbbell Bench](https://www.muscleandstrength.com/exercises/dumbbell-bench-press.html)            | 4    | 10      | 15kg           |
-| [Dumbbell Row](https://www.muscleandstrength.com/exercises/one-arm-dumbbell-row.html)              | 4    | 10      |                |
+| [Dumbbell Row](https://www.muscleandstrength.com/exercises/one-arm-dumbbell-row.html)              | 4    | 10      | 11kg           |
 | [Seated Dumbbell Press](https://www.muscleandstrength.com/exercises/seated-dumbbell-press.html)    | 4    | 10      | 13kg           |
 | [Lunge](https://www.muscleandstrength.com/exercises/dumbbell-lunge.html)                           | 4    | 10      |                |
 | [Dumbbell Curl](https://www.muscleandstrength.com/exercises/standing-dumbbell-curl.html)           | 3    | 10      | 10kg           |
