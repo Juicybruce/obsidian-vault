@@ -35,11 +35,11 @@
 
 | Exercise                                                                                                | Sets | Reps    | Current Weight |
 | ------------------------------------------------------------------------------------------------------- | ---- | ------- | -------------- |
-| [Deadlift](https://www.muscleandstrength.com/exercises/deadlifts.html)                                  | 5    | 5       | 55kg           |
+| [Deadlift](https://www.muscleandstrength.com/exercises/deadlifts.html)                                  | 5    | 5       | 15kg x 2       |
 | [Incline Dumbbell Press](https://www.muscleandstrength.com/exercises/incline-dumbbell-bench-press.html) | 4    | 10      | 15kg           |
 | [Lateral Raise](https://www.muscleandstrength.com/exercises/dumbbell-lateral-raise.html)                | 4    | 10      | 8kg            |
 | [Pulldown](https://www.muscleandstrength.com/exercises/lat-pull-down.html)                              | 4    | 10      |                |
-| [Leg Press](https://www.muscleandstrength.com/exercises/45-degree-leg-press.html)                       | 4    | 10      |                |
+| [Leg Press](https://www.muscleandstrength.com/exercises/45-degree-leg-press.html)                       | 4    | 10      | 45kg x 2       |
 | [EZ Bar Curl](https://www.muscleandstrength.com/exercises/ez-bar-curl.html)                             | 3    | 10      |                |
 | [Skullcrushers](https://www.muscleandstrength.com/exercises/ez-bar-skullcrusher.html)                   | 3    | 10      | 9kg            |
 | [Dumbbell Shrugs](https://www.muscleandstrength.com/exercises/dumbbell-shrugs.html)                     | 3    | 12      |                |
