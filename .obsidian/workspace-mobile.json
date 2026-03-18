@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym Routine.md",
+                "file": "Timemore C2 grinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gym Routine"
+              "title": "Timemore C2 grinder"
             }
           }
         ],
@@ -74,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gym",
+            "query": "Grind",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -179,11 +179,11 @@
   },
   "active": "a4b36beebe48e2e3",
   "lastOpenFiles": [
+    "Gym Routine.md",
     "Timemore C2 grinder.md",
     "Public Domain Images for Printing.md",
     "V60 Coffee Brewing Method.md",
     "Coffee.md",
-    "Gym Routine.md",
     "Ssamjang, Brown Butter and Prawn pasta.md",
     "Vows.md",
     "THE YELLOW GOO.md",
