@@ -6,7 +6,6 @@ Notes:
 	- finally a gory dismemberment
 - weaponize the cat (have it pop out to scare someone, ratchet the tension or simply be an omen)
 - Yellow Goo as a Ticking Time Bomb
--
 
 General
 - describe the situation fully, lay out possible actions
@@ -44,7 +43,7 @@ Test roll to understand system
 On ship:
 - The Ishiyama Dynamics C-Class Vessel, Callsign Tempest silently drifts through the inky darkness of space
 - Interior of the ship is deathly silent, punctuated only but gentle clicks and whirrs
-- A computer terminal flashes on, and words start flickering onto its blurry, scanline riddled surface:
+- A CRT computer terminal flashes on, and words start flickering onto its blurry, scanline riddled surface:
 	- APPROACHING YPSILON ASTEROID BELT. CYCLING CYRO-PODS
 - The cyro pods slowly fade into light, and each begins to gently chug and creak, beginning the 'decanting' process
 	- Each player hears a corporate jingle and corpo speak, while still slumbering:
