@@ -27,14 +27,17 @@ if there is a glossary page published, render the info on every sidebar
 ### TO DO
 
 - Search buttons need to be done
-- Gravity forms repeaters (say for adding multiple dogs to a register dog form)
-	- Couple of different solutions here, could use the [Repeater API](https://docs.gravityforms.com/repeater-fields/), or the [Nested Forms Addon](https://gravitywiz.com/documentation/gravity-forms-nested-forms/) from Gravity wiz
-- Also we are waiting on the clients approval for payment stuff being handled via gravity forms
-- How should the mobile layout for the documents page work?
+- More complex form handling
+	- Gravity forms repeaters (say for adding multiple dogs to a register dog form). Couple of different solutions here, could use the [Repeater API](https://docs.gravityforms.com/repeater-fields/), or the [Nested Forms Addon](https://gravitywiz.com/documentation/gravity-forms-nested-forms/) from Gravity wiz
+	- Also we are waiting on the clients approval for payment stuff being handled via gravity forms - how are we doing this? Bpoint for now?
 - mobile styles on all the maps
-- Meetings and minutes page (surely no single for those)
+- Meetings and minutes page (surely no single for those right?)
+- Waste collection search
+- contact us page? is it specific? kind of no but those cards....
+- 404 page
+- check documents filtering ()
 
 
 ## Meeting Notes
-- with Works/Projects, I am currently showing them all, and labelling them as 'Complete' once their **expected** end date has passed. Is this the correct approach? Or would you like finer grained control than that? A checkbox you hit once it is actually complete, seperate from the date range?
+- with Works/Projects, I am currently showing them all, and labelling them as 'Complete' once their **expected** end date has passed. Is this the correct approach? Or would you like finer grained control than that? A checkbox you hit once it is actually complete, separate from the date range?
 - 
