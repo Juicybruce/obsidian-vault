@@ -7,7 +7,7 @@ I love how obsessed you are with the dogs, and how you constantly compare Reggie
 7 years 
 blind date
 
-I have this vast and fathomless feeling in my chest, every time I think of you. I have no idea how I could possibly articulate it here. How could one possibly capture how I feel about our incredible life together without standing here for hours
+I have this vast and fathomless feeling in my chest, every time I think of you. I have no idea how I could possibly articulate it here. How could one possibly capture how I feel about our incredible life together without standing here for hours.
 
 So I'm not sure how to capture it, except maybe to count the ways I love you.
 
