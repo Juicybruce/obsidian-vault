@@ -1,43 +1,57 @@
-Core redesign in the IA - greater focus on use-case for end user
 
-Alert bar in header 
-- ticker
-- post type 'alert' like in glamorgan
-- maybe take it into council branch
+## Meeting Notes
 
-Search button is a standard fold out input
+- Just going over what has been implemented so far
+- Next steps are Ionata moving into content, as well as polish and starting the feedback cycle with your team
+- This stage is focused on functionality, there will be another designer-led pass for polishing (animations etc)
+  
+- I'll send the full list of these pages so you can take a look and see how it feels, and we can also start getting feedback on your workflow for the various post types etc
+#### Pages / Post Types
 
-Cards are styled by index (order changes their colour and flourishes)
+- [Home page ](https://gcc.clients.ionata.com.au/)
+  
+- [Landing page example](https://gcc.clients.ionata.com.au/your-council/)
+  
+- [Standard Page Example](https://gcc.clients.ionata.com.au/for-residents/emergencies/stormwater-floods/)
+- [Standard Page Example 2 (no banner image - waste collection block)](https://gcc.clients.ionata.com.au/for-residents/waste-management/)
+- [Standard Page Example 3 (form block)](https://gcc.clients.ionata.com.au/for-residents/animals-pets/register-a-dog/)
 
-### Home
+- [Posts (News) Index Page](https://gcc.clients.ionata.com.au/for-residents/news/)
+- [Example Post](https://gcc.clients.ionata.com.au/2026/03/have-your-say-in-glenorchys-future/)
 
-posts are always latest 4
+- [Events Page](https://gcc.clients.ionata.com.au/our-city/events/)
+- [Example Event](https://gcc.clients.ionata.com.au/event/variety-carols-by-candlelight-2025/)
 
-featured are selected by them - max 3
+- [Councilors Page](https://gcc.clients.ionata.com.au/your-council/currently-elected/elected-members/)
 
-### Sidebar
+- [Jobs Page](https://gcc.clients.ionata.com.au/your-council/careers/careers-with-council/)
 
-if there is a glossary page published, render the info on every sidebar
+- [Documents & Publications](https://gcc.clients.ionata.com.au/your-council/documents-publications/)
 
-### Waste management
+- [Meetings Page](https://gcc.clients.ionata.com.au/your-council/meetings/)
 
-- make this a custom block
+- [Facilities Page](https://gcc.clients.ionata.com.au/our-services/facilities/)
+- [Single Facility Example](https://gcc.clients.ionata.com.au/facility/moonah-arts-centre/)
+
+- [Works and Projects](https://gcc.clients.ionata.com.au/facility/moonah-arts-centre/)
+- [Single Work Example](https://gcc.clients.ionata.com.au/works/stormwater-improvement-works/)
+
+- [Plans Page](https://gcc.clients.ionata.com.au/for-business/planning/advertised-plans)
+- [Single Plan](https://gcc.clients.ionata.com.au/plan/planning-scheme-amendment-and-combined-planning-permit-plam-24-02/)
+
+- [Glossary Page](https://gcc.clients.ionata.com.au/a-z-glossary)
+
+
+#### To check:
+- We are waiting on some comms from the finance team on how we are handling payments via forms. Currently that is via Bpoint / Bpay, but my understanding was some thought of expanding this
+- Also I have not yet implemented the 'History' template, I believe we are just waiting on the go ahead, so let us know
 
 
 ### TO DO
 
-- Search buttons need to be done
 - More complex form handling
 	- Gravity forms repeaters (say for adding multiple dogs to a register dog form). Couple of different solutions here, could use the [Repeater API](https://docs.gravityforms.com/repeater-fields/), or the [Nested Forms Addon](https://gravitywiz.com/documentation/gravity-forms-nested-forms/) from Gravity wiz
-	- Also we are waiting on the clients approval for payment stuff being handled via gravity forms - how are we doing this? Bpoint for now?
-- mobile styles on all the maps
-- Meetings and minutes page (surely no single for those right?)
-- Waste collection search
-- contact us page? is it specific? kind of no but those cards....
-- 404 page
-- check documents filtering ()
-
-
-## Meeting Notes
-- with Works/Projects, I am currently showing them all, and labelling them as 'Complete' once their **expected** end date has passed. Is this the correct approach? Or would you like finer grained control than that? A checkbox you hit once it is actually complete, separate from the date range?
-- 
+	- Finance approvals?
+- mobile styles need a pass
+- contact us page has a card block that needs looking at
+- make sure SEO primary type is being used everywhere
