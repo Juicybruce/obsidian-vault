@@ -33,7 +33,7 @@
 - [Facilities Page](https://gcc.clients.ionata.com.au/our-services/facilities/)
 - [Single Facility Example](https://gcc.clients.ionata.com.au/facility/moonah-arts-centre/)
 
-- [Works and Projects](https://gcc.clients.ionata.com.au/facility/moonah-arts-centre/)
+- [Works and Projects](https://gcc.clients.ionata.com.au/for-business/works/)
 - [Single Work Example](https://gcc.clients.ionata.com.au/works/stormwater-improvement-works/)
 
 - [Plans Page](https://gcc.clients.ionata.com.au/for-business/planning/advertised-plans)
@@ -55,3 +55,13 @@
 - mobile styles need a pass
 - contact us page has a card block that needs looking at
 - make sure SEO primary type is being used everywhere
+- Do search replace on database for ddev links -> staging links
+- handle facility external link
+- quick exit on sensitive pages
+- CURRENTLY CLOSED banner on facilities
+- accessibility key focus because we will not use UserWay (do a check on all accessibility - claude skill perhaps?)
+
+katya.moss@gcc.tas.gov.au
+andrea.marquardt@gcc.tas.gov.au
+bonnie.millington@gcc.tas.gov.au
+natasha.barber@gcc.tas.gov.au
