@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCC Planning.md",
+                "file": "Carbonara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GCC Planning"
+              "title": "Carbonara"
             }
           }
         ],
@@ -74,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Planning",
+            "query": "Car",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -179,6 +179,7 @@
   },
   "active": "a4b36beebe48e2e3",
   "lastOpenFiles": [
+    "GCC Planning.md",
     "Vows.md",
     "Untitled 2.base",
     "Carbonara.md",
@@ -187,7 +188,6 @@
     "Untitled 1.base",
     "Mast Planning.md",
     "Honeymoon Planning.md",
-    "GCC Planning.md",
     "Collegiate Training Notes.md",
     "Claude code Demo.md",
     "Timemore C2 grinder.md",
