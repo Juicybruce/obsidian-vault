@@ -60,6 +60,7 @@
 - quick exit on sensitive pages
 - CURRENTLY CLOSED banner on facilities
 - accessibility key focus because we will not use UserWay (do a check on all accessibility - claude skill perhaps?)
+- notice single needs a look
 
 katya.moss@gcc.tas.gov.au
 andrea.marquardt@gcc.tas.gov.au
