@@ -1,3 +1,3 @@
 
  Champagne coupes
- 24
+ 30
