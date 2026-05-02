@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym Routine.md",
+                "file": "Kimchi Recipe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gym Routine"
+              "title": "Kimchi Recipe"
             }
           }
         ],
@@ -88,7 +88,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gym",
+            "query": "Kim",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -193,8 +193,8 @@
   },
   "active": "0c3beaa2d70267b3",
   "lastOpenFiles": [
-    "Glasses count.md",
     "Gym Routine.md",
+    "Glasses count.md",
     "().md",
     "Carbonara.md",
     "GCC Planning.md",
