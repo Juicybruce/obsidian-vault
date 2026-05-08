@@ -5,7 +5,7 @@ Based first off the classic recipe by[ Brian Lagerstrom](https://www.youtube.com
 The measurements here are for a single batch of lady fingers, simply double for a double batch and use a larger tray
 
 **Coffee Mixture**
-- 325g espresso
+- 325g espresso (4 pulls of double shot)
 - 10g vanilla extract
 - 20g cacao
 
