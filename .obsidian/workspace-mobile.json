@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marry me Chicken.md",
+                "file": "Tiramisu.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marry me Chicken"
+              "title": "Tiramisu"
             }
           }
         ],
@@ -88,7 +88,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Marr",
+            "query": "Tira",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -193,9 +193,9 @@
   },
   "active": "0c3beaa2d70267b3",
   "lastOpenFiles": [
+    "Marry me Chicken.md",
     "Tiramisu.md",
     "Carbonara.md",
-    "Marry me Chicken.md",
     "Kimchi Recipe.md",
     "Gym Routine.md",
     "Glasses count.md",
