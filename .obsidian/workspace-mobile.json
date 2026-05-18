@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym Routine.md",
+                "file": "Marry me Chicken.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gym Routine"
+              "title": "Marry me Chicken"
             }
           }
         ],
@@ -88,7 +88,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gym",
+            "query": "Marry",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -191,13 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "323a885e7297ff40",
+  "active": "0c3beaa2d70267b3",
   "lastOpenFiles": [
+    "Gym Routine.md",
     "Kimchi Recipe.md",
     "Tiramisu.md",
     "Marry me Chicken.md",
     "Carbonara.md",
-    "Gym Routine.md",
     "Glasses count.md",
     "().md",
     "GCC Planning.md",
