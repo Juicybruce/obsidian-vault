@@ -33,5 +33,5 @@ The measurements here are for a single batch of lady fingers, simply double for 
 	2. halfway there when custard is loose but yellow mustard colour, done when around 6-7mins, thickened to paint texture and around 77C in temp
 6. Add custard to mascarpone, fold in whipped cream in two halves
 7. Dunk each ladyfinger for 2 seconds in coffee mixture, drain and lay in pan. Build one layer, top with half the custard, then repeat
-8. sift cacao powder over top once finished
-9. Set for at least 8-24 hours.
+8. Set for at least 8-24 hours.
+9. sift cacao powder over top before serving

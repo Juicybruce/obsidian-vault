@@ -48,11 +48,9 @@
 
 
 ### TO DO
-
 - More complex form handling
 	- Gravity forms repeaters (say for adding multiple dogs to a register dog form). Couple of different solutions here, could use the [Repeater API](https://docs.gravityforms.com/repeater-fields/), or the [Nested Forms Addon](https://gravitywiz.com/documentation/gravity-forms-nested-forms/) from Gravity wiz
 	- Finance approvals?
-- mobile styles need a pass
 - contact us page has a card block that needs looking at
 - make sure SEO primary type is being used everywhere
 - Do search replace on database for ddev links -> staging links
@@ -66,3 +64,25 @@ katya.moss@gcc.tas.gov.au
 andrea.marquardt@gcc.tas.gov.au
 bonnie.millington@gcc.tas.gov.au
 natasha.barber@gcc.tas.gov.au
+
+### FEEDBACK - patch notes
+
+- heading sizes adjust to match figma typography section
+- 250px padding top added to **page** banners
+- page banner background changed to #000033
+- just removed the artistic elements on mobile sizes
+- increase content-sections padding to 90px on mobile
+- allow large banner images to be original size
+- wp-block-list items now have 8px margin bottoms
+- added icon selection to callout block
+- properly implement image left/right on content + image blocks
+- improved 3 column page preview card UX
+- Content & Image section tightened up
+- fixed the homepage image card masks
+- fixed the banner image on landing pages etc
+- ### MAPS - general fixes and actually implemented the mobile design
+- ##### Documents - did the label fix but actually squashed a persistent UX bug too
+- added some padding to keep post title (in mobile) out from under the actions menu
+- add 1700px breakpoint, container max widths now at 1600px at that breakpoint
+- remove left padding from latest news section on home page for 'homepage alignment' change
+- 
