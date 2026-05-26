@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiramisu.md",
+                "file": "Gym Routine.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiramisu"
+              "title": "Gym Routine"
             }
           }
         ],
@@ -88,7 +88,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Tira",
+            "query": "Gym",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -193,13 +193,13 @@
   },
   "active": "0c3beaa2d70267b3",
   "lastOpenFiles": [
+    "Tiramisu.md",
     "Marry me Chicken.md",
     "Treasury Wireframe.md",
     "Basetheme Template changes.md",
     "AI Hack Day.md",
     "Gym Routine.md",
     "Kimchi Recipe.md",
-    "Tiramisu.md",
     "Carbonara.md",
     "Glasses count.md",
     "().md",
