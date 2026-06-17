@@ -12,13 +12,24 @@
 - COMPOSE_PROJECT_NAME - set somewhere in scripts, also useful for our virtual port and local domain hostname stuff
 - MCP adapter setup for development (add .mcp to project root)
 - an easier time for things like importing/exporting db's? Wp cli access? Does this actually make DDEV a stronger candidate, because the commands for doing common tasks are too complex to remember for the docker compose version
+- another thing is the fact you can use ddev commands at any point in child directories, you can't do that with docker compose. eg, `docker compose exec` lacks context when you are in the theme directory
 - How are we fetching existing DB's for projects? developer.ionata API access?
+- Add build to the pipeline!
+- Another basetheme thing to discuss would be some default spacing css variables instead of using the gap-*
+
+- these changes need to be pulled into existing projects
+- partials into base theme
+- ai agent guidance + docs into basetheme
+
+- add Evo's 
+	- menu nav walker
+	- Post type registration
 
 Steps for new project (automate):
 1. name, project-code other info (admin name and password etc)
 2. pulls theme (branch choice)
 3. rewrite theme stuff (rm .git, updates style.css, composer, package.json)
-4. rewrite template stuff (root composer.json) - can this be handled in another way?
+4. rewrite template stuff (root composer.json) - can this be handled in another way? Yes turns out `composer config` is a command and I'm an idiot
 5. cp the example.env
 6. run composer update
 7. Handle DDEV / Docker compose first up

@@ -85,4 +85,6 @@ natasha.barber@gcc.tas.gov.au
 - added some padding to keep post title (in mobile) out from under the actions menu
 - add 1700px breakpoint, container max widths now at 1600px at that breakpoint
 - remove left padding from latest news section on home page for 'homepage alignment' change
+
+### Feedback notes
 - 
