@@ -83,3 +83,8 @@ Mitchell had mentioned making some new css variables, named for their actual use
 - grid gap
 - etc
 This would be rather than relying on the various ones we have at the moment (gap-xs/xl)
+
+
+#### NOTES 29/07
+- header logos etc need to be toggeable
+- link list is only the light version, no dark version necessary

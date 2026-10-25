@@ -38,3 +38,79 @@ Meeting Notes
 - get youtube videos embedded in facility preveiws
 - mailoptin is being used
 - look into culling images and media, there is a lot of stuff not being used](mast)
+### External System Audit Meeting
+
+**Notice to Mariners:**
+- Campaign Monitor holds the templates for the email notifications that get sent out
+- MailoptIn (WordPress plugin) triggers the sending of those emails to the subscriber lists
+
+- subscription form on website covers:
+	- list to notices to mariners all regions
+	- normal newsletter
+	- PWC Newsletter
+NEED TO DO THE FORM ON THE NOTICES PAGE AND THE /subscribe form page
+
+The lists otherwise come from
+- service tas sign ups
+- mast portal for masst clients
+
+Request for notice to mariners form feeds into the notices post type creates a pending forms
+- note that I've added the auto-numbering, check it works
+
+Facebook syndication is somewhat deprecated, leave it but it isn't going to be used
+
+**CCTV**
+
+- There is an image link for the latest screenshot from the timelapsed CCTV from Sullivans cove
+	- There isn't currently a page to put that image on, once there is I can populate it
+
+- Is there any other CCTV stuff that needs to be ported over?
+
+- there is a bunch of them (8 or so) not really provided to the public, but that could be something in the future 
+
+**RSS/Atom Feeds**
+- my understanding is that these feeds are consumed by another system that provides mariners very specific details on notices and warnings
+
+Decky consumes these feeds and that is what is used by mariners
+- Bill is going to check the feed and make sure it is working and is not malformed
+
+
+
+Links in Circulation
+- Bitly links etc
+- this is part of standard redirects but I wanted to cover it
+
+- service tas etc, their staff have online helpfiles that have links to our websites
+
+provide documentation on how to do redirects
+
+
+Quiz - Boating Practice Test
+
+Always available at mast.tas.gov.au/services/
+- served statically from an s3 bucket
+
+
+
+
+BILL THINGS
+
+- Rego check is reaching to MAST systems to check rego and mooring status
+- Where is each of the SPA things? Calcs and mooring and rego
+- might need to update the calculator systems in wordpress for launch
+- there was a fee change to the calculator, make sure that is being used
+- Make sure the quiz questions can be fetched in the same way as is currently done
+
+
+### Final step checklist
+
+- added Sullivans cove image to the top of the facility content
+- Confirmed MailOptIn plugin handles subscription to campaign monitor lists when users submit either subscription form
+- Confirm various other forms are functioning with their integrations
+
+- Made an updated "Request a notice to Mariners" form. Important to note that we haven't changed the notice post type itself, so the form simply collects more data (and creates a pending notice as before). Please see my notes on the departures I had to make from the list of fields provided - see [[Notes on notice form submission fields]]
+
+- I've made sure the banner content wysiwyg field properly visually splits paragraphs
+- I've ensured the news page banner doesn't reference the first news item
+
+- Gone through spreadsheet and made notes on those point that are content specific (i.e., the change can be made by your team when instructions are provided). Like how to add an accordion block, or change what order the cards appear
