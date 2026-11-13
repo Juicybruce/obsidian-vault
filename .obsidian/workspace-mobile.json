@@ -11,10 +11,14 @@
             "id": "00a687b29b26e21f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bagels.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bagels"
             }
           },
           {
@@ -59,8 +63,7 @@
               "title": "Marry me Chicken"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +91,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Marry",
+            "query": "Bagels",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -191,10 +194,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c3beaa2d70267b3",
+  "active": "00a687b29b26e21f",
   "lastOpenFiles": [
-    "Timemore C2 grinder.md",
     "Marry me Chicken.md",
+    "Bagels.md",
+    "Timemore C2 grinder.md",
     "Untitled 4.base",
     "Untitled 3.base",
     "Gym Routine.md",

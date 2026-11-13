@@ -4,7 +4,7 @@ Ingredients:
 
 **Dough**
 - 297g (1 ⅓ cup) water 
-- 10g (1 Tbsp) active dry yeast
+- 10g (1 Tbsp) active dry yeast (maybe reduce for overnight proof)
 - 23g (1.5 Tbsp) granulated sugar
 - 500g (3.5 cups) bread flour, plus extra for bench flour
 - 6g (1.5 tsp) kosher salt
