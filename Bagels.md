@@ -4,15 +4,15 @@ Ingredients:
 
 **Dough**
 - 297g (1 ⅓ cup) water 
-- 10g (1 Tbsp) active dry yeast
-- 23g (1.5 Tbsp) granulated sugar
+- 5g (.5 Tbsp) active dry yeast
+- 23g malt syrup (or 18g  sugar)
 - 500g (3.5 cups) bread flour, plus extra for bench flour
 - 6g (1.5 tsp) kosher salt
 
 Water for boiling:
-- water
+- water (3 liters)
 - 1 Tbsp baking soda 
-- 1/4 cup sugar
+- fair dollop of molasses (or 1/4 cup sugar)
 
 **Topping ('Everything' Bagels):**
 - 2 Tbsp garlic flakes
@@ -35,5 +35,5 @@ Method:
 From here either proof overnight, move directly into boiling and cooking them:
 1. Boil water with other ingredients
 2. drop a batch of bagels, 1-2minutes each side (longer for chewier)
-3. pull out, brush with egg and sprinkle with topping
+3. pull out, sprinkle with topping
 4. Cooking for 20 mins in 220 degree oven or until golden brown
