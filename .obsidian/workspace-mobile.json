@@ -91,7 +91,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Bagels",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -194,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00a687b29b26e21f",
+  "active": "323a885e7297ff40",
   "lastOpenFiles": [
     "Untitled 5.base",
     "TFS Meeting.md",
