@@ -1,5 +1,5 @@
 ## New Gym Routine
-
+[[Bodyweight Stuff]]
 # The Total Package Workout
 
 **Source:** [Muscle and Strength](https://www.muscleandstrength.com/workouts/total-package-workout)

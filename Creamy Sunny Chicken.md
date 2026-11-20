@@ -1,6 +1,6 @@
 #recipe #cooking 
 
-Needs a new name
+Formerly known as Marry me chicken
 
 Ingredients:
 
@@ -32,11 +32,11 @@ Ingredients:
 - Parmesean/Grana Padano/Pecorino, a mix
 
 Method:
-1. season chicken with salt and pep, optional spices then dredge lightly
+1. season chicken with salt and pep, optional spices then dredge lightly in the flour
 2. brown in pan for some nice colour, then put to one side
 3. drop in some butter, then saute garlic and sundried tomatoes, then chilli + oregano
 4. deglaze with chicken stock
 	1. place chicken back in to finish cooking
 5. remove chicken, add cream and cheese
 6. toss in cooked pasta, simmer and toss to emulsify
-7. serve pasta with chicken + torn basil over the top
+7. serve pasta with sliced chicken + torn basil over the top
